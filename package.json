@@ -1,0 +1,21 @@
+{
+  "name": "@isleyassis/utils",
+  "version": "1.0.0",
+  "description": "Uma pequena lib de utilitários de testes do Isley",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "cp -r src/* dist/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Isleyassis/utils.git"
+  },
+  "author": "Isley Assis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isleyassis/utils/issues"
+  },
+  "homepage": "https://github.com/Isleyassis/utils#readme"
+}
