@@ -17,5 +17,14 @@
   "bugs": {
     "url": "https://github.com/Isleyassis/utils/issues"
   },
+  "keywords": [
+    "javascript",
+    "utils",
+    "utility",
+    "sum",
+    "math",
+    "helpers",
+    "isley"
+  ],
   "homepage": "https://github.com/Isleyassis/utils#readme"
 }
